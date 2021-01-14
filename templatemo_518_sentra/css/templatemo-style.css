@@ -926,6 +926,9 @@ header {
   font-weight: bold;
   font-size: 30px;
 }
+.how-section1 p{
+  color: whitesmoke;
+}
 .how-section1 .subheading{
   color: white;
   font-size: 20px;
